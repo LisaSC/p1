@@ -7,4 +7,4 @@
 Info about me as required in the project guidelines, presented using HTML.
 
 ##Details
-No login, no outside code used.
+No login, no outside code used. Maxim Sukharev-Chuyan helped me with styling.
