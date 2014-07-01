@@ -1,4 +1,4 @@
-# DWA Project 1 Lisa Sukharev-Chuyan
+# DWA Project 1 ~ Lisa Sukharev-Chuyan
 
 ##Live URL
 <http://p1.ink3.co.uk>
